@@ -15,7 +15,7 @@ My name is Ryan Zh! Here, you'll find a mix of projects ranging from web develop
   </table>
 </div>
 <div align="center">
-      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Juno9170&theme=vue&days=20&height=300" alt="juno-github-activity-graph" />
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Juno9170&days=20&height=300&bg_color=eff1f5&line=137980&title_color=8839ef&color=4c4f69&area=true" alt="juno-github-activity-graph" />
 </div>
 
 # 🌟 Current Favourite Projects

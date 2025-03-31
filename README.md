@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Ryan Zh! Here, you'll find a mix of projects ranging from web development and AI, to hardware projects like mechanical aimbots and flying helicopters.
+My name is Ryan Zhu! Here, you'll find a mix of projects ranging from web development and AI, to hardware projects like mechanical aimbots and flying helicopters.
 
 <div align="center">
   <table>

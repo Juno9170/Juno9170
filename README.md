@@ -9,7 +9,7 @@ My name is Ryan Zh! Here, you'll find a mix of projects ranging from web develop
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juno9170&show=prs_merged&theme=catppuccin_latte&show_icons=true" alt="juno-github-stats" />
       </td>
       <td align="center" vertical-align="middle">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juno9170&layout=compact&theme=catppuccin_latte" alt="juno-languages-stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juno9170&layout=donut&theme=catppuccin_latte" alt="juno-languages-stats" />
       </td>
     </tr>
   </table>

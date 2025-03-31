@@ -2,21 +2,23 @@
 
 My name is Ryan Zh! Here, you'll find a mix of projects ranging from web development and AI, to hardware projects like mechanical aimbots and flying helicopters.
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <table>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Juno9170&show=prs_merged&theme=catppuccin_latte&show_icons=true" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
   <table>
     <tr>
       <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juno9170&layout=compact&theme=catppuccin_latte" style="width: 100%;" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juno9170&show=prs_merged&theme=catppuccin_latte&show_icons=true" alt="juno-github-stats" />
+      </td>
+      <td align="center" vertical-align="middle">
+        <a href="https://monkeytype.com/profile/finityfly" target="blank">
+          <br />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juno9170&layout=compact&theme=catppuccin_latte" alt="juno-languages-stats" />
+        </a>
       </td>
     </tr>
   </table>
-
+</div>
+<div align="center">
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Juno9170&theme=vue&days=20&height=300" alt="juno-github-activity-graph" />
 </div>
 
 # 🌟 Current Favourite Projects
